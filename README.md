@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me:
-    - noodlesgas233@gmail.com
-    - littlekk@umich.edu
-  
+- 📫 noodlesgas233@gmail.com
+- 🔭 DBS
 
