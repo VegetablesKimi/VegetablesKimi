@@ -1,4 +1,4 @@
-### Hi there 👋
+### Vegetables means 🥬, and Kimi is my English name!
 
 <!--
 **VegetablesKimi/VegetablesKimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
