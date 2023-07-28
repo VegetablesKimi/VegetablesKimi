@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 - 📫 noodlesgas233@gmail.com
-- 🔭 DBS
+- 🔭 Database System & Computer Network
 - ⚡ Fun fact: love touching fish
