@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 - 📫 noodlesgas233@gmail.com
-- 🔭 Database System & Computer Network
+- 🔭 Computer Network & full-stack development
 - ⚡ Fun fact: love touching fish
